@@ -44,8 +44,6 @@ var a = 1;
 // }
 
 
-
-
 // Boolean Objects
 
 var a = new Boolean(0);
@@ -53,6 +51,8 @@ var b = new Boolean(1);
 
 // document.write('a boolean is ' +a+"<br>");
 // document.write('a boolean is ' +b+"<br>");
+
+
 
 
 
